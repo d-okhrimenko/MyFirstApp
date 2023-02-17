@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyFirstApp
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            // comment 456
-            Console.WriteLine("Hello world");
-        }
     }
 }
