@@ -11,7 +11,7 @@ namespace MyFirstApp
         static void Main(string[] args)
         {
             // comment 456
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world 2");
         }
     }
 }
