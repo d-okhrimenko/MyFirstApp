@@ -10,6 +10,7 @@ namespace MyFirstApp
     {
         static void Main(string[] args)
         {
+            // comment
             Console.WriteLine("Hello world");
         }
     }
